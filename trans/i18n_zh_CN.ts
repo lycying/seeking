@@ -1,0 +1,372 @@
+<!DOCTYPE TS><TS>
+<context>
+    <name>default</name>
+    <message>
+        <source>locale</source>
+        <translation>zh_CN</translation>
+    </message>
+    <message>
+        <source>common</source>
+        <translation>通用</translation>
+    </message>
+    <message>
+        <source>Global</source>
+        <translation>全局</translation>
+    </message>
+    <message>
+        <source>&amp;File</source>
+        <translation>文件</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Settings</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>Preferences...</source>
+        <translation>首选项...</translation>
+    </message>
+    <message>
+        <source>Languages</source>
+        <translation>语言</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation>样式</translation>
+    </message>
+    <message>
+        <source>Window</source>
+        <translation>窗口</translation>
+    </message>
+    <message>
+        <source>Plugins</source>
+        <translation>插件</translation>
+    </message>
+    <message>
+        <source>Plugin Infos...</source>
+        <translation>插件信息...</translation>
+    </message>
+    <message>
+        <source>Install plugins...</source>
+        <translation>安装插件...</translation>
+    </message>
+    <message>
+        <source>Uninstall plugins...</source>
+        <translation>卸载插件...</translation>
+    </message>
+    <message>
+        <source>Available plugins...</source>
+        <translation>寻找插件...</translation>
+    </message>
+    <message>
+        <source>English</source>
+        <translation>简体中文</translation>
+    </message>
+    <message>
+        <source>MainTab</source>
+        <translation>主页面</translation>
+    </message>
+    <message>
+        <source>Success , this Will take effect at the next time</source>
+        <translation>设置成功，将在下次启动时生效</translation>
+    </message>
+</context>
+<context>
+    <name>ConfigDialog</name>
+    <message>
+        <source>Config Dialog</source>
+        <translation>配置 对话框</translation>
+    </message>
+</context>
+<context>
+    <name>PluginInfoDialog</name>
+    <message>
+        <source>Loaded Plugins</source>
+        <translation>已加载插件信息</translation>
+    </message>
+    <message>
+        <source>Module</source>
+        <translation>模块</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>模块名称</translation>
+    </message>
+    <message>
+        <source>Author</source>
+        <translation>作者</translation>
+    </message>
+    <message>
+        <source>Version</source>
+        <translation>版本</translation>
+    </message>
+    <message>
+        <source>Active</source>
+        <translation>启用</translation>
+    </message>
+    <message>
+        <source>Description</source>
+        <translation>摘要</translation>
+    </message>
+    <message>
+        <source>DeActive</source>
+        <translation>禁用</translation>
+    </message>
+</context>
+<context>
+    <name>ApplicationPage</name>
+    <message>
+        <source>Application</source>
+        <translation>全局</translation>
+    </message>
+    <message>
+        <source>Quit when last window close</source>
+        <translation>当最后一个窗口关闭时退出程序</translation>
+    </message>
+    <message>
+        <source>Check error log at start</source>
+        <translation>启动时检查错误信息</translation>
+    </message>
+    <message>
+        <source>If show splash screen or not</source>
+        <translation>是否显示启动界面</translation>
+    </message>
+    <message>
+        <source>Style</source>
+        <translation>样式</translation>
+    </message>
+</context>
+<context>
+    <name>ShortcutsPage</name>
+    <message>
+        <source>Shortcuts</source>
+        <translation>快捷键配置</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation>过滤</translation>
+    </message>
+    <message>
+        <source>Action</source>
+        <translation>动作</translation>
+    </message>
+    <message>
+        <source>Shortcut</source>
+        <translation>快捷键</translation>
+    </message>
+</context>
+<context>
+    <name>ShortcutDialog</name>
+    <message>
+        <source>Edit Shortcut</source>
+        <translation>编辑快捷键</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>清除</translation>
+    </message>
+</context>
+<context>
+    <name>YeahdocList</name>
+    <message>
+        <source>Title</source>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>CreateTime</source>
+        <translation>创建时间</translation>
+    </message>
+    <message>
+        <source>Star</source>
+        <translation>星标</translation>
+    </message>
+    <message>
+        <source>Lock</source>
+        <translation>加密</translation>
+    </message>
+    <message>
+        <source>Filter</source>
+        <translation>过滤</translation>
+    </message>
+    <message>
+        <source>by title</source>
+        <translation>搜索标题</translation>
+    </message>
+    <message>
+        <source>by content</source>
+        <translation>搜索内容</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>预览</translation>
+    </message>
+    <message>
+        <source>Yeahdoc</source>
+        <translation>文章列表</translation>
+    </message>
+    <message>
+        <source>Open</source>
+        <translation>打开</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>编辑</translation>
+    </message>
+    <message>
+        <source>Toggle Star</source>
+        <translation>星标</translation>
+    </message>
+    <message>
+        <source>Rename</source>
+        <translation>重命名</translation>
+    </message>
+    <message>
+        <source>Export...</source>
+        <translation>导出为...</translation>
+    </message>
+    <message>
+        <source>Import...</source>
+        <translation>导入...</translation>
+    </message>
+    <message>
+        <source>Delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>new category</source>
+        <translation>新的分类</translation>
+    </message>
+    <message>
+        <source>Change Category</source>
+        <translation>改变分类</translation>
+    </message>
+    <message>
+        <source>Merge</source>
+        <translation>合并到</translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation>清除分类数据</translation>
+    </message>
+    <message>
+        <source>Refresh</source>
+        <translation>刷新</translation>
+    </message>
+</context>
+<context>
+    <name>YeahdocEditor</name>
+    <message>
+        <source>Title</source>
+        <translation>标题</translation>
+    </message>
+    <message>
+        <source>Encrypt</source>
+        <translation>加密</translation>
+    </message>
+    <message>
+        <source>Decrypt</source>
+        <translation>解密</translation>
+    </message>
+    <message>
+        <source>Re</source>
+        <translation>重复</translation>
+    </message>
+    <message>
+        <source>Yeahdoc</source>
+        <translation>文档编辑</translation>
+    </message>
+    <message>
+        <source>New Yeahdoc</source>
+        <translation>新建文章</translation>
+    </message>
+    <message>
+        <source>Preview</source>
+        <translation>预览</translation>
+    </message>
+    <message>
+        <source>Save</source>
+        <translation>保存</translation>
+    </message>
+    <message>
+        <source>Category</source>
+        <translation>分类</translation>
+    </message>
+    <message>
+        <source>View</source>
+        <translation>预览</translation>
+    </message>
+    <message>
+        <source>Tags</source>
+        <translation>标签</translation>
+    </message>
+    <message>
+        <source>Edit</source>
+        <translation>编辑</translation>
+    </message>
+</context>
+<context>
+    <name>AboutSeeking</name>
+    <message>
+        <source>About</source>
+        <translation>关于</translation>
+    </message>
+    <message>
+        <source>Authors</source>
+        <translation>作者</translation>
+    </message>
+    <message>
+        <source>Thanks To</source>
+        <translation>感谢</translation>
+    </message>
+    <message>
+        <source>License</source>
+        <translation>版权</translation>
+    </message>
+    <message>
+        <source>Report bug</source>
+        <translation>错误反馈</translation>
+    </message>
+    <message>
+        <source>What's This?</source>
+        <translation>这是什么?</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Show Versions</source>
+        <translation>版本信息</translation>
+    </message>
+    <message>
+        <source>Check for Updates...</source>
+        <translation>检查更新...</translation>
+    </message>
+    <message>
+        <source>About Seeking</source>
+        <translation>关于</translation>
+    </message>
+</context>
+<context>
+    <name>YeahdocPage</name>
+    <message>
+        <source>title</source>
+        <translation>文档日志</translation>
+    </message>
+    <message>
+        <source>Store Location</source>
+        <translation>存储位置</translation>
+    </message>
+    <message>
+        <source>Number Per Page</source>
+        <translation>每页显示的数目</translation>
+    </message>
+    <message>
+        <source>brower...</source>
+        <translation>浏览</translation>
+    </message>
+</context>
+</TS>

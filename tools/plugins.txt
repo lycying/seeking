@@ -1,0 +1,3 @@
+yeahdoc|0.1|Used to record you articals|lycying@gmail.com
+help|0.1|Help and about infomations|lycying@gmail.com
+todo|0.1|just another todolist|lycying@gmail.com

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ShortcutsPage</class>
+ <widget class="QWidget" name="ShortcutsPage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>615</width>
+    <height>394</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <widget class="QLabel" name="label">
+         <property name="text">
+          <string>Filter</string>
+         </property>
+         <property name="buddy">
+          <cstring>searchEdit</cstring>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLineEdit" name="searchEdit">
+         <property name="toolTip">
+          <string>Enter the regular expression that should be contained in the shortcut action</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="QTreeWidget" name="shortcutsList">
+       <property name="toolTip">
+        <string>This list shows all keyboard shortcuts.</string>
+       </property>
+       <property name="whatsThis">
+        <string>&lt;b&gt;Keyboard Shortcuts List&lt;/b&gt;
+&lt;p&gt;This list shows all keyboard shortcuts defined in the application. Double click an entry in order to change the respective shortcut. Alternatively, the shortcut might be changed by editing the key sequence in the respective column.&lt;/p&gt;</string>
+       </property>
+       <property name="alternatingRowColors">
+        <bool>true</bool>
+       </property>
+       <column>
+        <property name="text">
+         <string>Action</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>Shortcut</string>
+        </property>
+       </column>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
