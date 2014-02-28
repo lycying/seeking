@@ -1,4 +1,6 @@
 ### Seeking (Also called Yeahdoc)
+* move from https://code.google.com/p/seeking/
+* the old versions here:https://code.google.com/p/seeking/source/list
 
 #### What is Seeking ?
 Seeking is a cross-platform personal-document management licensed under the GNU GPL v3 license. Which supply a handy,powerful WYSIWYG editor yet can be used for editing beautiful HTML files .The program is extremely helpful for programer .This site is the home of Seeking development. If you have any question or suggestions regarding Seeking please mail me. Thank you for choosing Seeking. 
