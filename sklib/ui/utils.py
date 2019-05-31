@@ -6,8 +6,8 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtGui import QApplication
-from PyQt4.QtGui import QStyleFactory
+from PyQt5.QtGui import QApplication
+from PyQt5.QtGui import QStyleFactory
 
 from ..config import Prefs
 

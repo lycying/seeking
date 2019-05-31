@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'ConfigDialog.ui'
 #
 # Created: Wed Mar 16 15:09:32 2011
-#      by: PyQt4 UI code generator 4.8.3
+#      by: PyQt5 UI code generator 4.8.3
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8

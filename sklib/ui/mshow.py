@@ -7,12 +7,12 @@
 #
 
 
-from PyQt4.QtGui import QGridLayout
-from PyQt4.QtGui import QPlainTextEdit
-from PyQt4.QtGui import QPushButton
-from PyQt4.QtGui import QLineEdit
+from PyQt5.QtGui import QGridLayout
+from PyQt5.QtGui import QPlainTextEdit
+from PyQt5.QtGui import QPushButton
+from PyQt5.QtGui import QLineEdit
 
-from PyQt4.QtGui import QWidget
+from PyQt5.QtGui import QWidget
 
         
 class SKMainTabShow(QWidget): 

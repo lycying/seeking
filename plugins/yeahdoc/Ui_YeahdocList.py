@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'YeahdocList.ui'
 #
 # Created: Wed Jan 15 20:58:08 2014
-#      by: PyQt4 UI code generator 4.10.3
+#      by: PyQt5 UI code generator 4.10.3
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -119,7 +119,7 @@ class Ui_YeahdocList(object):
         self.bycontent.setText(_translate("YeahdocList", "by content", None))
         self.yeahdoccategorylist.setSortingEnabled(False)
 
-from PyQt4 import QtWebKit
+from PyQt5 import QtWebKit
 
 if __name__ == "__main__":
     import sys

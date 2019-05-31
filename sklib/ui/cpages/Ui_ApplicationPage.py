@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'ApplicationPage.ui'
 #
 # Created: Wed Nov 24 14:13:04 2010
-#      by: PyQt4 UI code generator 4.8
+#      by: PyQt5 UI code generator 4.8
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8

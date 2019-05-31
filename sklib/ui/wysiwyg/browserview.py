@@ -6,27 +6,27 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtGui import QAction
-from PyQt4.QtGui import QIcon
-from PyQt4.QtGui import QWidget
-from PyQt4.QtGui import QVBoxLayout
-from PyQt4.QtGui import QToolBar 
-from PyQt4.QtGui import QLineEdit
-from PyQt4.QtGui import QMenu
-from PyQt4.QtGui import QMovie
-from PyQt4.QtGui import QLabel
+from PyQt5.QtGui import QAction
+from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QWidget
+from PyQt5.QtGui import QVBoxLayout
+from PyQt5.QtGui import QToolBar 
+from PyQt5.QtGui import QLineEdit
+from PyQt5.QtGui import QMenu
+from PyQt5.QtGui import QMovie
+from PyQt5.QtGui import QLabel
 
 
-from PyQt4.QtCore import QObject
-from PyQt4.QtCore import QUrl
-from PyQt4.QtCore import SIGNAL
-from PyQt4.QtCore import QSize
-from PyQt4.QtCore import QByteArray
+from PyQt5.QtCore import QObject
+from PyQt5.QtCore import QUrl
+from PyQt5.QtCore import SIGNAL
+from PyQt5.QtCore import QSize
+from PyQt5.QtCore import QByteArray
 
-from PyQt4.QtWebKit import QWebView
-from PyQt4.QtWebKit import QWebPage
+from PyQt5.QtWebKit import QWebView
+from PyQt5.QtWebKit import QWebPage
 
-from PyQt4.QtNetwork import QNetworkReply
+from PyQt5.QtNetwork import QNetworkReply
 
 from ...config import getPath
 

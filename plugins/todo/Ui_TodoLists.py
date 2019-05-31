@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'TodoLists.ui'
 #
 # Created: Mon Nov 22 20:54:44 2010
-#      by: PyQt4 UI code generator 4.8
+#      by: PyQt5 UI code generator 4.8
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8

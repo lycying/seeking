@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'Scanner.ui'
 #
 # Created: Fri Jan 17 17:53:02 2014
-#      by: PyQt4 UI code generator 4.10.3
+#      by: PyQt5 UI code generator 4.10.3
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8

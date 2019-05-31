@@ -7,20 +7,20 @@
 #
 import sys
 
-from PyQt4.QtGui import QAction
-from PyQt4.QtGui import QIcon
-from PyQt4.QtGui import QTextEdit
-from PyQt4.QtGui import QMenu
+from PyQt5.QtGui import QAction
+from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QTextEdit
+from PyQt5.QtGui import QMenu
 
 
-from PyQt4.QtCore import QObject
-from PyQt4.QtCore import SIGNAL
-from PyQt4.QtCore import pyqtSignature
-from PyQt4.QtCore import QUrl
+from PyQt5.QtCore import QObject
+from PyQt5.QtCore import SIGNAL
+from PyQt5.QtCore import pyqtSignature
+from PyQt5.QtCore import QUrl
 
 
-from PyQt4.QtWebKit import QWebView
-from PyQt4.QtWebKit import QWebPage
+from PyQt5.QtWebKit import QWebView
+from PyQt5.QtWebKit import QWebPage
 
 
 from ...htmlfilter import htmlclean

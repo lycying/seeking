@@ -9,19 +9,19 @@ import tempfile
 import zipfile
 import sys
 
-from PyQt4.QtGui import QDialog
-from PyQt4.QtGui import QTreeWidgetItem
-from PyQt4.QtGui import QMenu
-from PyQt4.QtGui import QAction
-from PyQt4.QtGui import QApplication
-from PyQt4.QtGui import QDesktopWidget
+from PyQt5.QtGui import QDialog
+from PyQt5.QtGui import QTreeWidgetItem
+from PyQt5.QtGui import QMenu
+from PyQt5.QtGui import QAction
+from PyQt5.QtGui import QApplication
+from PyQt5.QtGui import QDesktopWidget
 
-from PyQt4.QtCore import QObject
-from PyQt4.QtCore import SIGNAL
-from PyQt4.QtCore import QUrl
-from PyQt4.QtCore import QFile
+from PyQt5.QtCore import QObject
+from PyQt5.QtCore import SIGNAL
+from PyQt5.QtCore import QUrl
+from PyQt5.QtCore import QFile
 
-from PyQt4.QtNetwork import QHttp 
+from PyQt5.QtNetwork import QHttp 
 
 from .Ui_PluginInfoDialog import Ui_PluginInfoDialog
 from .Ui_PluginRequestDialog import Ui_PluginRequestDialog

@@ -6,11 +6,11 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtGui import QSystemTrayIcon
-from PyQt4.QtGui import QMenu
-from PyQt4.QtGui import QIcon
-from PyQt4.QtGui import QAction
-from PyQt4.QtGui import qApp
+from PyQt5.QtGui import QSystemTrayIcon
+from PyQt5.QtGui import QMenu
+from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QAction
+from PyQt5.QtGui import qApp
 
 from ..config import getPath
 from .uimain import Seeking

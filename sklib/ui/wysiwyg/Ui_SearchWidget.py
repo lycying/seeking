@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'SearchWidget.ui'
 #
 # Created: Wed Feb 02 23:12:14 2011
-#      by: PyQt4 UI code generator 4.7.4
+#      by: PyQt5 UI code generator 4.7.4
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 class Ui_SearchWidget(object):
     def setupUi(self, SearchWidget):

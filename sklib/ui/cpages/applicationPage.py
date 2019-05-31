@@ -6,11 +6,11 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtGui import QWidget
-from PyQt4.QtGui import QStyleFactory
+from PyQt5.QtGui import QWidget
+from PyQt5.QtGui import QStyleFactory
 
-from PyQt4.QtCore import QObject
-from PyQt4.QtCore import SIGNAL
+from PyQt5.QtCore import QObject
+from PyQt5.QtCore import SIGNAL
 
 from .Ui_ApplicationPage import Ui_ApplicationPage
 from ..utils import changeStyle

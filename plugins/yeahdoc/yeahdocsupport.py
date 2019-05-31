@@ -10,7 +10,7 @@ import time
 import sys
 import sqlite3 as sqlite
 
-from PyQt4.QtCore import QVariant
+from PyQt5.QtCore import QVariant
 
 
 from sklib.config import Prefs, getPath, getPrccisePath

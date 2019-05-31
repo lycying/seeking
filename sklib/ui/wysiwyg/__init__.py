@@ -6,38 +6,38 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtGui import QAction
-from PyQt4.QtGui import QIcon
-from PyQt4.QtGui import QWidget
-from PyQt4.QtGui import QApplication
-from PyQt4.QtGui import QTabWidget
-from PyQt4.QtGui import QVBoxLayout
-from PyQt4.QtGui import QColorDialog
-from PyQt4.QtGui import QTextEdit
-from PyQt4.QtGui import QToolBar 
-from PyQt4.QtGui import QLineEdit
-from PyQt4.QtGui import QMenu
-from PyQt4.QtGui import QPainter
-from PyQt4.QtGui import QSplitter
-from PyQt4.QtGui import QMovie
-from PyQt4.QtGui import QLabel
+from PyQt5.QtGui import QAction
+from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QWidget
+from PyQt5.QtGui import QApplication
+from PyQt5.QtGui import QTabWidget
+from PyQt5.QtGui import QVBoxLayout
+from PyQt5.QtGui import QColorDialog
+from PyQt5.QtGui import QTextEdit
+from PyQt5.QtGui import QToolBar 
+from PyQt5.QtGui import QLineEdit
+from PyQt5.QtGui import QMenu
+from PyQt5.QtGui import QPainter
+from PyQt5.QtGui import QSplitter
+from PyQt5.QtGui import QMovie
+from PyQt5.QtGui import QLabel
 
 
-from PyQt4.QtCore import QObject
-from PyQt4.QtCore import QUrl
-from PyQt4.QtCore import QMimeData
-from PyQt4.QtCore import SIGNAL
-from PyQt4.QtCore import Qt
-from PyQt4.QtCore import QSize
-from PyQt4.QtCore import QByteArray
-from PyQt4.QtCore import QPoint
-from PyQt4.QtCore import pyqtSignature
+from PyQt5.QtCore import QObject
+from PyQt5.QtCore import QUrl
+from PyQt5.QtCore import QMimeData
+from PyQt5.QtCore import SIGNAL
+from PyQt5.QtCore import Qt
+from PyQt5.QtCore import QSize
+from PyQt5.QtCore import QByteArray
+from PyQt5.QtCore import QPoint
+from PyQt5.QtCore import pyqtSignature
 
-from PyQt4.QtWebKit import QWebView
-from PyQt4.QtWebKit import QWebPage
-from PyQt4.QtWebKit import QWebInspector
+from PyQt5.QtWebKit import QWebView
+from PyQt5.QtWebKit import QWebPage
+from PyQt5.QtWebKit import QWebInspector
 
-from PyQt4.QtNetwork import QNetworkReply
+from PyQt5.QtNetwork import QNetworkReply
 
 from ...htmlfilter import htmlclean
 from ...config import getPath,getPrccisePath

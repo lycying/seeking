@@ -5,12 +5,12 @@
 # All rights reserved.
 # vim: set ft=python sw=2 ts=2 et:
 #
-from PyQt4.QtGui import QFont
-from PyQt4.QtGui import QTextCharFormat
-from PyQt4.QtGui import QSyntaxHighlighter
+from PyQt5.QtGui import QFont
+from PyQt5.QtGui import QTextCharFormat
+from PyQt5.QtGui import QSyntaxHighlighter
 
-from PyQt4.QtCore import Qt
-from PyQt4.QtCore import QRegExp
+from PyQt5.QtCore import Qt
+from PyQt5.QtCore import QRegExp
 
 class Highlighter(QSyntaxHighlighter):
     def __init__(self, parent=None):

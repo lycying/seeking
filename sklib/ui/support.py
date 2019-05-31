@@ -6,8 +6,8 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtCore import SIGNAL
-from PyQt4.QtCore import pyqtSignature
+from PyQt5.QtCore import SIGNAL
+from PyQt5.QtCore import pyqtSignature
 
 from .uimain import Seeking
 

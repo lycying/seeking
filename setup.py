@@ -20,12 +20,12 @@ buildOptions = dict(
         compressed = True,
         #path = sys.path + ["plugins"],
         excludes = ['cookielib', 'getpass', 'urllib2', 'ssl', 'termios', 'matplotlib', "Tkconstants", "Tkinter", "tcl", "_imagingtk",
-                    "ImageTk", "FixTk", 'wx', 'PyQt4.QtAssistant', 'PyQt4.QtOpenGL',
-                    'PyQt4.QtScript', 'PyQt4.QtSql', 'PyQt4.QtTest', 'qt'
+                    "ImageTk", "FixTk", 'wx', 'PyQt5.QtAssistant', 'PyQt5.QtOpenGL',
+                    'PyQt5.QtScript', 'PyQt5.QtSql', 'PyQt5.QtTest', 'qt'
             ],
         includes = ["pyDes","inspect","lxml", "lxml._elementpath", "lxml.etree",\
-                    'PyQt4.QtWebKit',\
-                'PyQt4.QtNetwork',
+                    'PyQt5.QtWebKit',\
+                'PyQt5.QtNetwork',
                 'sqlite3',\
                 'sklib.security',\
                 'sklib.ui.support',\

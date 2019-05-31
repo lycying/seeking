@@ -6,25 +6,25 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtGui import QMainWindow
-from PyQt4.QtGui import QStyleFactory
-from PyQt4.QtGui import QAction
-from PyQt4.QtGui import QActionGroup
-from PyQt4.QtGui import QIcon
-from PyQt4.QtGui import QApplication
-from PyQt4.QtGui import QTabWidget
-from PyQt4.QtGui import QMessageBox
-from PyQt4.QtGui import QTabBar
-from PyQt4.QtGui import QWidget
-from PyQt4.QtGui import QMenu
-from PyQt4.QtGui import QHBoxLayout
-from PyQt4.QtGui import QPushButton
+from PyQt5.QtGui import QMainWindow
+from PyQt5.QtGui import QStyleFactory
+from PyQt5.QtGui import QAction
+from PyQt5.QtGui import QActionGroup
+from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QApplication
+from PyQt5.QtGui import QTabWidget
+from PyQt5.QtGui import QMessageBox
+from PyQt5.QtGui import QTabBar
+from PyQt5.QtGui import QWidget
+from PyQt5.QtGui import QMenu
+from PyQt5.QtGui import QHBoxLayout
+from PyQt5.QtGui import QPushButton
 
-from PyQt4.QtCore import QObject
-from PyQt4.QtCore import QTranslator
-from PyQt4.QtCore import QDir
-from PyQt4.QtCore import Qt
-from PyQt4.QtCore import SIGNAL
+from PyQt5.QtCore import QObject
+from PyQt5.QtCore import QTranslator
+from PyQt5.QtCore import QDir
+from PyQt5.QtCore import Qt
+from PyQt5.QtCore import SIGNAL
 
 from .overlay import Overlay
 from .mshow import SKMainTabShow

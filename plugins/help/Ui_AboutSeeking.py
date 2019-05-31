@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'AboutSeeking.ui'
 #
 # Created: Wed Dec 08 18:51:05 2010
-#      by: PyQt4 UI code generator 4.7.4
+#      by: PyQt5 UI code generator 4.7.4
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 class Ui_AboutSeeking(object):
     def setupUi(self, AboutSeeking):

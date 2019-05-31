@@ -8,28 +8,28 @@
 
 import os
 
-from PyQt4.QtGui import QAction
-from PyQt4.QtGui import QWidgetAction
-from PyQt4.QtGui import QCursor
-from PyQt4.QtGui import QIcon
-from PyQt4.QtGui import QWidget
-from PyQt4.QtGui import QColorDialog
-from PyQt4.QtGui import QMenu
-from PyQt4.QtGui import QPalette
-from PyQt4.QtGui import QBrush
-from PyQt4.QtGui import QColor
-from PyQt4.QtGui import QPainter
-from PyQt4.QtGui import QLabel
-from PyQt4.QtGui import QToolTip
-from PyQt4.QtGui import QDesktopWidget
-from PyQt4.QtGui import QDialog
-from PyQt4.QtGui import QDialogButtonBox
+from PyQt5.QtGui import QAction
+from PyQt5.QtGui import QWidgetAction
+from PyQt5.QtGui import QCursor
+from PyQt5.QtGui import QIcon
+from PyQt5.QtGui import QWidget
+from PyQt5.QtGui import QColorDialog
+from PyQt5.QtGui import QMenu
+from PyQt5.QtGui import QPalette
+from PyQt5.QtGui import QBrush
+from PyQt5.QtGui import QColor
+from PyQt5.QtGui import QPainter
+from PyQt5.QtGui import QLabel
+from PyQt5.QtGui import QToolTip
+from PyQt5.QtGui import QDesktopWidget
+from PyQt5.QtGui import QDialog
+from PyQt5.QtGui import QDialogButtonBox
 
-from PyQt4.QtCore import SIGNAL
-from PyQt4.QtCore import Qt
-from PyQt4.QtCore import QObject
-from PyQt4.QtCore import pyqtSignature
-from PyQt4.QtCore import QUrl
+from PyQt5.QtCore import SIGNAL
+from PyQt5.QtCore import Qt
+from PyQt5.QtCore import QObject
+from PyQt5.QtCore import pyqtSignature
+from PyQt5.QtCore import QUrl
 
 from ...config import getPath
 from .Ui_SearchWidget import Ui_SearchWidget

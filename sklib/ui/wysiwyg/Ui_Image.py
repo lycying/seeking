@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'Image.ui'
 #
 # Created: Wed Feb 02 23:12:15 2011
-#      by: PyQt4 UI code generator 4.7.4
+#      by: PyQt5 UI code generator 4.7.4
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 class Ui_Image(object):
     def setupUi(self, Image):
@@ -144,7 +144,7 @@ class Ui_Image(object):
         self.alignment.setItemText(2, QtGui.QApplication.translate("Image", "right", None, QtGui.QApplication.UnicodeUTF8))
         self.alignment.setItemText(3, QtGui.QApplication.translate("Image", "center", None, QtGui.QApplication.UnicodeUTF8))
 
-from PyQt4 import QtWebKit
+from PyQt5 import QtWebKit
 
 if __name__ == "__main__":
     import sys

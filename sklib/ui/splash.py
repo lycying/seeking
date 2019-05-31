@@ -6,11 +6,11 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtCore import Qt
-from PyQt4.QtGui import QApplication
-from PyQt4.QtGui import QPixmap
-from PyQt4.QtGui import QSplashScreen
-from PyQt4.QtGui import QColor
+from PyQt5.QtCore import Qt
+from PyQt5.QtGui import QApplication
+from PyQt5.QtGui import QPixmap
+from PyQt5.QtGui import QSplashScreen
+from PyQt5.QtGui import QColor
 from ..config import getPath
 
 

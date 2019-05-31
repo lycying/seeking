@@ -3,11 +3,11 @@
 # Form implementation generated from reading ui file 'NewYeahdocCategory.ui'
 #
 # Created: Thu Dec 09 22:22:59 2010
-#      by: PyQt4 UI code generator 4.7.4
+#      by: PyQt5 UI code generator 4.7.4
 #
 # WARNING! All changes made in this file will be lost!
 
-from PyQt4 import QtCore, QtGui
+from PyQt5 import QtCore, QtGui
 
 class Ui_NewYeahdocCategory(object):
     def setupUi(self, NewYeahdocCategory):

@@ -8,14 +8,14 @@
 
 import math
 
-from PyQt4.QtGui import QWidget
-from PyQt4.QtGui import QPainter
-from PyQt4.QtGui import QPalette
-from PyQt4.QtGui import QColor
-from PyQt4.QtGui import QBrush
-from PyQt4.QtGui import QPen
+from PyQt5.QtGui import QWidget
+from PyQt5.QtGui import QPainter
+from PyQt5.QtGui import QPalette
+from PyQt5.QtGui import QColor
+from PyQt5.QtGui import QBrush
+from PyQt5.QtGui import QPen
 
-from PyQt4.QtCore import Qt
+from PyQt5.QtCore import Qt
 
 
 class Overlay(QWidget):

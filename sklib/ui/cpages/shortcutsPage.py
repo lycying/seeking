@@ -6,19 +6,19 @@
 # vim: set ft=python sw=2 ts=2 et:
 #
 
-from PyQt4.QtGui import QWidget
-from PyQt4.QtGui import QTreeWidgetItem
-from PyQt4.QtGui import QHeaderView
-from PyQt4.QtGui import QKeySequence
-from PyQt4.QtGui import QDialog
-from PyQt4.QtGui import QDialogButtonBox
-from PyQt4.QtGui import QApplication
-from PyQt4.QtGui import QDesktopWidget
+from PyQt5.QtGui import QWidget
+from PyQt5.QtGui import QTreeWidgetItem
+from PyQt5.QtGui import QHeaderView
+from PyQt5.QtGui import QKeySequence
+from PyQt5.QtGui import QDialog
+from PyQt5.QtGui import QDialogButtonBox
+from PyQt5.QtGui import QApplication
+from PyQt5.QtGui import QDesktopWidget
 
-from PyQt4.QtCore import Qt
-from PyQt4.QtCore import SIGNAL
-from PyQt4.QtCore import QObject
-from PyQt4.QtCore import QEvent
+from PyQt5.QtCore import Qt
+from PyQt5.QtCore import SIGNAL
+from PyQt5.QtCore import QObject
+from PyQt5.QtCore import QEvent
 
 from .Ui_ShortcutsPage import Ui_ShortcutsPage
 from .Ui_ShortcutDialog import Ui_ShortcutDialog

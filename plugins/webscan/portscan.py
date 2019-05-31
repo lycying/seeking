@@ -1,10 +1,10 @@
-from PyQt4.QtGui import QWidget
-from PyQt4.QtGui import QIcon
+from PyQt5.QtGui import QWidget
+from PyQt5.QtGui import QIcon
 
 
-from PyQt4.QtCore import pyqtSignature
-from PyQt4.QtCore import SIGNAL
-from PyQt4.QtCore import QObject
+from PyQt5.QtCore import pyqtSignature
+from PyQt5.QtCore import SIGNAL
+from PyQt5.QtCore import QObject
 
 import threading
 import traceback
